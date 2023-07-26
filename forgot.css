@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav img {
+    display: inline;
+    width: 200px;
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    background-color: white;
+    border: 1px solid black;
+
+}
+
+
+
+.search input {
+    margin-top: 20px;
+    margin-left:250px;
+    width: 100px;
+    height: 30px;
+
+}
+.input2{
+        display: flex;
+        width: 100px;
+        height: 30px;
+        margin-top: 20px;
+        margin-left:300px;
+        left: 100px;
+        padding:4px;
+      
+    
+}
+
+.button {
+ 
+    width: 62px;
+    text-align: center;
+    background-color: #1877f2;
+    color: white;
+
+    height: 30px;
+    margin-top: 20px;
+    margin-left:30px
+}
+.link a{
+    color: blue;
+    text-decoration: none;
+
+}
+.link{
+    margin-left:70px;
+    margin-top:20px;
+}
